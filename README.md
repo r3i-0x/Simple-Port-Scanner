@@ -21,7 +21,9 @@ The script will then prompt you to enter the target IP address or hostname and t
 Example:
 
 Enter the IP address or hostname: scanme.nmap.org
+
 Enter the starting port: 80
+
 Enter the ending port: 100
 
 ## Future Enhancements
