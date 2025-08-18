@@ -27,7 +27,7 @@ Enter the ending port: 100
 ## Future Enhancements
 
 * **Multithreading:** Implement multithreading to speed up the scanning process.
-* **Port Banner Grabbing:** Extract service banners (e.g., "Apache 2.4.29") from open ports.
+* **Port Banner Grabbing:** Extract service banners from open ports.
 * **Service Version Detection:** Identify the specific version of the service running on an open port.
 * **Output to a file:** Add the option to save the results to a text file for later analysis.
 
